@@ -1,6 +1,6 @@
 <div align="center">
 
-# @Cogils/TenkaBails
+# @iziBrothers/RennBaileys
 
 A WebSocket-based library for interacting with WhatsApp Web — a fork of
 [Baileys](https://github.com/WhiskeySockets/Baileys) with additional socket layers
@@ -43,7 +43,7 @@ such as payments, products, albums, events, poll results, and order messages.
 ## Installation
 
 ```bash
-npm install @Cogils/TenkaBails
+npm install @iziBrothers/RennBaileys
 ```
 
 You can also add it to your package manifest as `baileys` or `@whiskeysockets/baileys`:
@@ -51,7 +51,7 @@ You can also add it to your package manifest as `baileys` or `@whiskeysockets/ba
 ```json
 {
   "dependencies": {
-    "@whiskeysocket/baileys": "github:Cogils/TenkaBails"
+    "@whiskeysocket/baileys": "github:iziBrothers/RennBaileys"
   }
 }
 ```
