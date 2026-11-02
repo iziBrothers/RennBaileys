@@ -1,6 +1,9 @@
-<div align="center">
+# Izi x Renn
 
-# @iziBrothers/RennBaileys
+<p align="center">
+  <img src="https://ganga--link--ghhzdp9sv8hk.code.run/i/h8x2xwpa" alt="Thumbnail" />
+</p>
+
 
 A WebSocket-based library for interacting with WhatsApp Web — a fork of
 [Baileys](https://github.com/WhiskeySockets/Baileys) with additional socket layers
